@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>雕龙绣虎的博客</title>
+  
+  <subtitle>dlxh</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://diaolongxiuhu.com/"/>
+  <updated>2019-12-15T13:30:59.776Z</updated>
+  <id>https://diaolongxiuhu.com/</id>
+  
+  <author>
+    <name>雕龙绣虎</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>写博客的目的</title>
+    <link href="https://diaolongxiuhu.com/2019/12/15/xie-bo-ke-de-mu-de/"/>
+    <id>https://diaolongxiuhu.com/2019/12/15/xie-bo-ke-de-mu-de/</id>
+    <published>2019-12-15T13:23:10.000Z</published>
+    <updated>2019-12-15T13:30:59.776Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;口口声声说要考研，最后荒废了一年，总想着明天学明天学还有时间，结果拖到了最后。&lt;br&gt;真是个笑话。&lt;br&gt;年纪大了，再给自己最后一年时间。&lt;br&gt;我想用博客记录下学习的知识，主要是数学和408的自己的理解和总结，不管没有人看，我也要坚持下去，就当是费曼学习法吧。&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="https://diaolongxiuhu.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="随笔" scheme="https://diaolongxiuhu.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+</feed>
